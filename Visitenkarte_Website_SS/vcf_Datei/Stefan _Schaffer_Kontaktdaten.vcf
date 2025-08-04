@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Stefan Schaffer
+TEL;TYPE=CELL:+436648173989
+EMAIL:stefan.schaffer@pwn.at
+ORG:Stefan Schaffer
+ADR:;;Kalsdorfer Straße 39;Feldkirchen bei Graz;;A-8073;Österreich
+PHOTO;ENCODING=b;TYPE=PNG:
+END:VCARD
